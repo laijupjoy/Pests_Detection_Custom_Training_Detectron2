@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>img_7.jpg</filename>
+	<path>C:\Users\laiju\OneDrive\Desktop\New folder (13)\New folder\img_7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>352</width>
+		<height>402</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>paddy stem borer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>126</ymin>
+			<xmax>204</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+</annotation>

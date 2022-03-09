@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>img_23.jpg</filename>
+	<path>C:\Users\laiju\OneDrive\Desktop\New folder (13)\New folder\img_23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spodoptera exigua</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>90</ymin>
+			<xmax>191</xmax>
+			<ymax>129</ymax>
+		</bndbox>
+	</object>
+</annotation>
